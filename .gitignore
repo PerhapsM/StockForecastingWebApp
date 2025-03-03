@@ -1,0 +1,13 @@
+*.ipynb
+*.log
+test.py
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+
+# IDE
+.idea/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
