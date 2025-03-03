@@ -6,7 +6,7 @@ This is a Streamlit-based web application built as a side project to showcase sk
 - **Forecast Stock Prices:** Experiment with different machine learning models and tuning parameters to forecast future stock prices.
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockforecastingwebapp-jackmao.streamlit.app/)
 
 
 ## Features
